@@ -1,7 +1,4 @@
-window.clAppConfig = Object.assign(
-  {
-    domain: "commercelayer.io",
-    selfHostedSlug: null,
-  },
-  window.clAppConfig
-)
+window.clAppConfig = {
+  domain: "commercelayer.io",
+  selfHostedSlug: "ayden-jackson-store",
+}
